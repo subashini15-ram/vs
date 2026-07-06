@@ -1,1 +1,16 @@
+
 This is your roadmap to work through independently. Each day has learning goals, resources, and a hands-on lab. At the end of each day, you'll check in with your mentor — not to be taught the material, but to walk through what you built, ask questions, and get clarity on anything that didn't click. 
+=======
+feature
+This is your roadmap to work through independently. Each day has learning goals, resources, and a hands-on lab. At the end of each day, you'll check in with your mentor — not to be taught the material, but to walk through what you built, ask questions, and get clarity on anything that didn't click. git add 
+Get your laptop set up: Node.js (LTS), pnpm/npm, VS Code, Git, Docker Desktop, Azure CLI  Create/activate accounts: GitHub, Azure Portal (sandbox subscription), Claude Code acces
+Take the short self-assessment quiz (link provided separately) — this just helps calibrate where you're starting from. There's no passing/failing; be honest.
+ part2
+git and github git log
+sample change to track file 
+Git Configuration & Setupgit init – Creates a new local repository.git clone <url> – Downloads an existing repository from GitHub.git config --global user.name "Name" – Sets your commit username.git config --global user.email "email" – Sets your commit email. 
+if you update or change in document. to add it to git by < git addd .  then mark changes <git commit -m "updated 2nd para"
+
+This is your roadmap to work through independently. Each day has learning goals, resources, and a hands-on lab. At the end of each day, you'll check in with your mentor — not to be taught the material, but to walk through what you built, ask questions, and get clarity on anything that didn't click. 
+ 
+
